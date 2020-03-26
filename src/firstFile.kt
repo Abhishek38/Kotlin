@@ -57,7 +57,7 @@ println("hello kalu")
         println(j)
         /*===========================Range=====================*/
     for (k in 1..7)
-        print(k)
+        print(k) //prints 1 to 7
 
     if(y in 1..10)//Equivalent of ->   if(y>=1 &&y<=10)
         print("found he number $y")
